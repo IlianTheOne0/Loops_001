@@ -22,7 +22,7 @@ int main()
 		result *= x;
 	}
 
-	cout << result << endl;
+	cout << "Result: " << result << endl;
 
 	_getch();
 	return 0;
